@@ -5,7 +5,7 @@
 ## Description
 
 
-- We have developed this REST API for an Bus reservation application. This API performs all the fundamental CRUD operations of any Bus reservation platform with user validation at every step.
+- We developed this REST API for a Bus reservation application. This API performs all the fundamental CRUD operations of any Bus reservation platform with user validation at every step.
 - This project is developed by team of 4 Back-end Developers during project week in Masai School. [Link](https://drive.google.com/file/d/1GB9ipLJ5KYehKpMvrfXTJay5DDQPmFkT/view?usp=sharing)
 
 
